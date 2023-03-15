@@ -40,7 +40,7 @@ int main()
 	* Here list the name of the file to be parsed
 	*/
 
-	parse("data/Tracker_231122_1212.txt");
+	 parse("data/Tracker_140323_1503.txt");
   return 0;
 }
 
